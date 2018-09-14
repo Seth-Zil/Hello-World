@@ -6,5 +6,12 @@ This is my first basic project on GitHub, called "Hello-World." The purpose will
 
 I look forward to this educational journey!
 
+Project Objectives/Outline: 
+1) Create an open-source repository on Github
+2) Create a new branch to make edits on the readme.md file
+3) Open and then Merge a Pull Request to make changes to the Master Branch
+4) Delete old branch
+5) Project Completion!
+
 Regards, 
 SZ. 
